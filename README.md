@@ -1,2 +1,2 @@
 # Javascript
-Learnig Java Script
+Learning Java Script
